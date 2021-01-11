@@ -4,9 +4,10 @@
  
  Project created as a part of Introduction to Image Understanding course.  
  
- Code and examples can be found in seam_carve.ipynb notebook.
+ Code and more examples can be found in seam_carve.ipynb notebook.
 
-# Demo
+# Live Demo
 ![](seam.gif)
 
+# Method Comparison
 ![](demo.png)
